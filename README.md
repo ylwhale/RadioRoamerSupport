@@ -7,7 +7,7 @@ This folder is ready to upload to a GitHub repository for a GitHub Pages site.
 - `support/index.html` → public support page for App Store Connect
 - `privacy/index.html` → privacy policy page
 - `styles.css` → shared styling
-- `assets/app-logo.png` → app icon
+- `assets/app-logo-v2.png` → app icon
 - `assets/screenshot-map.png` → app screenshot
 - `assets/screenshot-player.png` → app screenshot
 
@@ -17,14 +17,10 @@ If the repository is named `radioroamer` and published as a project site under `
 - `https://jingyuhuang.github.io/radioroamer/support/`
 - `https://jingyuhuang.github.io/radioroamer/privacy/`
 
-## One thing you still need to edit
-Search for this exact placeholder string and replace it with your real support email:
+## Support email
+The site is configured to use this support email:
 
-`REPLACE_WITH_YOUR_EMAIL@example.com`
-
-It appears in:
-- `support/index.html`
-- `privacy/index.html`
+`radioroamersupport@gmail.com`
 
 ## Upload steps
 1. Create or open your GitHub repo.
@@ -41,5 +37,5 @@ After GitHub Pages finishes publishing, use these in App Store Connect:
 
 
 ## Included visual assets
-- `assets/app-logo.png` — globe-and-radio icon used in the header, favicon, and touch icon
+- `assets/app-logo-v2.png` — globe-and-radio icon used in the header, favicon, and touch icon
 - `assets/featured-screenshot.png` — map screenshot used in the hero/support overview
